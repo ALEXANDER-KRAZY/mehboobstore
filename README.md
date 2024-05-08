@@ -2,6 +2,8 @@
 
 Store system for Mehboob's stock created in Nextjs, Reactjs, TypeScript
 
+![](mehboobslive.png)
+
 ## Running the development server:
 
 ```bash

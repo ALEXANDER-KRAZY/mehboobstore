@@ -5,6 +5,7 @@ export default function Home() {
         md:px-48
         ">
           <div className="text-2xl">
+            {/**using the &apos; HTML entity to escape the apostrophe */}
           Mr. Mehboob&apos;s Store Record System still under construction
           </div>
           <div className="
