@@ -5,7 +5,7 @@ export default function Home() {
         md:px-48
         ">
           <div className="text-2xl">
-          Mr. Mehboob's Store Record System still under construction
+          Mr. Mehboob&apos;s Store Record System still under construction
           </div>
           <div className="
         border-[1px]
