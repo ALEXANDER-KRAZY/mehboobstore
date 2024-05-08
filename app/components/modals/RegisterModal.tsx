@@ -49,7 +49,7 @@ const RegisterModal = () => {
       gap4
       ">
         <Heading
-        title="Welcome to our store"
+        title="Welcome to Mehboob's store"
         subtitle="Create an account"
         />
         <Input />
