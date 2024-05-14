@@ -51,6 +51,9 @@ Page to make reprints of documents for all operations to aid in record keeping
 ## Installing packages and dependencies
 
 ```bash
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add table
+npm install @tanstack/react-table
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm install react-icons
