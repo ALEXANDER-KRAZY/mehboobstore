@@ -1,0 +1,12 @@
+/*model NewCard {
+    id
+    title
+    brand
+    reference
+    ranking
+    stock
+    garage
+    faulty
+    used
+}
+*/

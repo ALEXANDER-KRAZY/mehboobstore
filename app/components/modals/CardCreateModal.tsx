@@ -3,9 +3,12 @@
 import axios from "axios"
 
 import useCardCreateModal from "../hooks/useCardCreateModal"
-import Modal from "./ModalTwo";
+import ModalTwo from "./ModalTwo";
 
 const CardCreateModal = () => {
+  const cardCreateModal = useCardCreateModal();
+  //const handleSubmit
+  //const handleDelete
 
   let bodyContent = (
     <div className="
@@ -122,9 +125,8 @@ const CardCreateModal = () => {
     </div>
     </div>
   )
-    const cardCreateModal = useCardCreateModal();
   return (
-    <Modal 
+    <ModalTwo
     isOpen={cardCreateModal.isOpen}
     title="Create a New Card"
     actionLabel="Save"
